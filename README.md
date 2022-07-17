@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Koushikgiri-official
 - 👀 I’m interested in web development 
 - 🌱 I’m currently learning css and javascript 
-- 
--
+- 📫 Contact me @ koushikgiriofficial@gmail.com
 
 <!---
 Koushikgiri-official/Koushikgiri-official is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
